@@ -1,0 +1,1 @@
+{"raw_llm_output_error": "I apologize, but I need the HTML/text content and the extraction prompt to extract the data. Please provide them, and I'll return the extracted data as a JSON array.", "original_prompt": "Extract all products and prices too", "json_error": "Expecting value: line 1 column 1 (char 0)"}

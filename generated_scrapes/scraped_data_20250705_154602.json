@@ -1,0 +1,7 @@
+[
+    {
+        "raw_llm_output_error": "Please provide the text content and extraction prompt, and I'll extract the requested information and return it in a JSON array.",
+        "original_prompt": "Extract the title of the page. Provide it with the key 'page_title'.",
+        "json_error": "Expecting value: line 1 column 1 (char 0)"
+    }
+]

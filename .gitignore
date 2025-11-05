@@ -1,0 +1,17 @@
+# Ignore virtual environments
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.zip
+*.tar
+*.tmp
+.env
+.env.*
+

@@ -1,0 +1,25 @@
+from langchain.chains.question_answering.chain import load_qa_chain
+
+
+
+uvicorn a2a_server:app --reload
+
+
+curl -X POST "http://127.0.0.1:8000/rpc" \
+-H "Content-Type: application/json" \
+-d '{
+      "jsonrpc": "2.0",
+      "method": "research_topic",
+      "params": {"query": "What is the A2A protocol for AI agents?"},
+      "id": 1
+    }'
+
+
+curl -X POST "http://127.0.0.1:8000/rpc" \
+-H "Content-Type: application/json" \
+-d '{
+      "jsonrpc": "2.0",
+      "method": "generate_image",
+      "params": {"query": "A logo for A.T.L.A.S., an advanced AI system, minimalist, glowing blue circuits, dark background"},
+      "id": 2
+    }'

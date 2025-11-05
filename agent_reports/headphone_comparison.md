@@ -1,0 +1,1 @@
+Research the top 3 noise-cancelling headphones released in the last year. Create a comparison table of their key features and price. Save this report to a file named 'headphone_comparison.md'.

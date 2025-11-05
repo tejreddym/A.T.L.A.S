@@ -1,0 +1,1 @@
+{"raw_llm_output": "I'm ready to extract the data. Please provide the text content and the extraction prompt.", "original_prompt": "extract all products and prices"}

@@ -1,0 +1,2 @@
+{"item": "Mock Data 1", "description": "This is mock data from a non-authenticated scrape.", "url": "https://www.amazon.in/s?k=smartphones+under+30k&crid=3CCGITRIE4RUR&sprefix=smartphones+under+30k%2Caps%2C327&ref=nb_sb_noss_1"}
+{"item": "Mock Data 2", "description": "Further details for mock data.", "url": "https://www.amazon.in/s?k=smartphones+under+30k&crid=3CCGITRIE4RUR&sprefix=smartphones+under+30k%2Caps%2C327&ref=nb_sb_noss_1"}
