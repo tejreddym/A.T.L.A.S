@@ -32,7 +32,7 @@ A.T.L.A.S. aims to become your **personal AI command center** — analytical, co
 ## 🧩 Tech Stack  
 - **Language:** Python 🐍  
 - **Framework:** Gradio 🎛  
-- **Core AI Models:** OpenAI / Groq / FAISS  
+- **Core AI Models:** GEMINI / Groq / FAISS  
 - **Architecture:** Modular multi-agent design  
 - **Environment:** Virtualenv (`env`)  
 
